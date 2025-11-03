@@ -1,0 +1,28 @@
+# Web Framework
+streamlit
+
+# LLM Integration (supports both OpenAI and Azure OpenAI)
+openai
+
+# Configuration & Validation
+python-dotenv
+pydantic
+pydantic-settings
+
+# Logging
+loguru
+
+# Data Processing
+pandas
+
+# Visualization
+plotly
+
+# Testing
+pytest
+pytest-cov
+
+# Code Quality
+black
+flake8
+mypy
